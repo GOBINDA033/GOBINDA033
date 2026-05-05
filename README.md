@@ -1,4 +1,4 @@
-![logo](https://github.com/GOBINDA033/GOBINDA033/blob/main/bn.png)
+![logo](https://github.com/GOBINDA033/GOBINDA033/blob/main/png)
 <h1 align="center">Hi 👋, I'm Gobinda</h1>  
 <h3 align="center">Aspiring Software Developer</h3>  
 <img align="right" width="400" src="https://user- images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
